@@ -2,6 +2,7 @@
 int CPU::game_play(){
 srand(time(0));
 int tempAI;
+clean();
 
 while(true){
 
